@@ -1,0 +1,2 @@
+# TradingBotNodeJS
+NodeJs Trading Bot
